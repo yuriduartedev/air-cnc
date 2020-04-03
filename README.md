@@ -103,7 +103,7 @@ $ yarn start
 
 Essas são as tecnologias utilizadas nesse projeto
 
-📟- **Backend:** [Node.js](https://nodejs.org/en/), [Express](https://expressjs.com/pt-br/), [MongoDB](https://www.mongodb.com/).
+📟- **Backend:** [Node.js](https://nodejs.org/en/), [Express](https://expressjs.com/pt-br/), [MongoDB](https://www.mongodb.com/).  
 💻- **Frontend:** [React](https://reactjs.org), [Axios](https://github.com/axios/axios), [React Icons](https://react-icons.netlify.com/).  
 📱- **Mobile:** [React Native](https://facebook.github.io/react-native/), [React Navigation](https://reactnavigation.org/), [Expo](https://expo.io/), [Axios](https://github.com/axios/axios).
 
